@@ -9,7 +9,7 @@ import basic.Duck;
 public class MallardDuck extends Duck {
 
     @Override
-    protected void display() {
+    public void display() {
         System.out.println("I am a Mallard Duck!!");
     }
 }

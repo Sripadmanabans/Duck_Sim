@@ -6,9 +6,9 @@ package basic;
  */
 public abstract class Duck {
 
-    protected void swim() {
+    public void swim() {
         System.out.println("I can swim");
     }
 
-    protected abstract void display();
+    public abstract void display();
 }
