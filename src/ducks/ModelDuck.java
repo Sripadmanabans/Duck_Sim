@@ -2,7 +2,6 @@ package ducks;
 
 import basic.Duck;
 import behavior.fly.FlyNoWay;
-import behavior.fly.FlyWithWings;
 import behavior.quack.Quack;
 
 /**
